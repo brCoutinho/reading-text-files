@@ -1,4 +1,4 @@
-application/PrimeiraSolucao.java
- application.PrimeiraSolucao
 application/PrimeiraForma.java
  application.PrimeiraForma
+application/PrimeiraSolucao.java
+ application.PrimeiraSolucao
