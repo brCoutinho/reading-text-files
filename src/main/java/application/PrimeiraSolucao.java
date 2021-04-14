@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class ProgramControleManual {
+public class PrimeiraSolucao {
     public static void main(String[] args) {
         String path = "c:\\temp\\in.txt";
         FileReader fr = null;
