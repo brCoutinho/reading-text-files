@@ -1,2 +1,4 @@
 application/PrimeiraForma.java
  application.PrimeiraForma
+application/ProgramControleManual.java
+ application.ProgramControleManual
