@@ -1,4 +1,6 @@
 application/PrimeiraForma.java
  application.PrimeiraForma
-application/PrimeiraSolucao.java
- application.PrimeiraSolucao
+entities/Produto.java
+ entities.Produto
+application/LerArquivoTexto.java
+ application.LerArquivoTexto
