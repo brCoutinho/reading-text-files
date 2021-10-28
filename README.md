@@ -12,6 +12,3 @@ Arquivo deverá estar localizado em "C:\temp\in.txt".
 
 Projeto foi construído em várias etapas, onde a cada nova etapa o código foi melhorado e foi descoberto maneiras diferentes de implementar as soluções.
 
-
--Projeto baseado na aula do Professor Nélio Alves através do seguinte endereço:
-https://youtu.be/xLDViuYlqGM
